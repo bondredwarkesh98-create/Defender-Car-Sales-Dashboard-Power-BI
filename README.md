@@ -78,7 +78,7 @@ These insights support decisions in:
 - `Defender_Dashboard.pbix` – Power BI file (if uploaded)  
 - README.md  
 
-Defender car sales dashboard screenshot DEMO:-
+Defender car sales dashboard screenshot DEMO:-Screenshot 2026-02-06 131114.png
 📬 Contact
 
 Feel free to connect or collaborate on analytical projects.
